@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files\Java\jre1.8.0_121" version="1.8.0_121">
+<bootpath>
+<entry path="C:\Program Files\Java\jre1.8.0_121\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_121\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_121\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_121\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_121\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_121\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_121\lib\jfr.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_121\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jre1.8.0_121\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jre1.8.0_121\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre" version="1.8.0_05">
+<bootpath>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\resources.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\rt.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\sunrsasign.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\jsse.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\jce.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\charsets.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\jfr.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root" version="1.8.0_05">
+<bootpath>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\resources.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\rt.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\sunrsasign.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\jsse.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\jce.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\charsets.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\jfr.jar"/>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="W:\App-V\A002E9D8-E4A9-426E-8113-F65A3BE80976\E399C880-87B8-48BE-AC5E-426B2DA433F7\Root\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
